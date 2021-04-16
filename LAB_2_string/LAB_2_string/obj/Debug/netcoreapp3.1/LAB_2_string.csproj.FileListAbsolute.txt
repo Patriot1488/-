@@ -1,0 +1,13 @@
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\obj\Debug\netcoreapp3.1\LAB_2_string.csprojAssemblyReference.cache
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\obj\Debug\netcoreapp3.1\LAB_2_string.AssemblyInfoInputs.cache
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\obj\Debug\netcoreapp3.1\LAB_2_string.AssemblyInfo.cs
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\obj\Debug\netcoreapp3.1\LAB_2_string.csproj.CoreCompileInputs.cache
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\bin\Debug\netcoreapp3.1\LAB_2_string.exe
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\bin\Debug\netcoreapp3.1\LAB_2_string.deps.json
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\bin\Debug\netcoreapp3.1\LAB_2_string.runtimeconfig.json
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\bin\Debug\netcoreapp3.1\LAB_2_string.runtimeconfig.dev.json
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\bin\Debug\netcoreapp3.1\LAB_2_string.dll
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\bin\Debug\netcoreapp3.1\LAB_2_string.pdb
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\obj\Debug\netcoreapp3.1\LAB_2_string.dll
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\obj\Debug\netcoreapp3.1\LAB_2_string.pdb
+C:\Users\hentai_lover_\Desktop\Уник\Лабы c#\LAB_2_string\LAB_2_string\obj\Debug\netcoreapp3.1\LAB_2_string.genruntimeconfig.cache

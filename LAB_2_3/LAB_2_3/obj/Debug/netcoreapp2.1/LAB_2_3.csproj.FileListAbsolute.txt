@@ -1,0 +1,11 @@
+C:\Users\hentai_lover_\source\repos\LAB_2_3\LAB_2_3\obj\Debug\netcoreapp2.1\LAB_2_3.AssemblyInfoInputs.cache
+C:\Users\hentai_lover_\source\repos\LAB_2_3\LAB_2_3\obj\Debug\netcoreapp2.1\LAB_2_3.AssemblyInfo.cs
+C:\Users\hentai_lover_\source\repos\LAB_2_3\LAB_2_3\obj\Debug\netcoreapp2.1\LAB_2_3.csproj.CoreCompileInputs.cache
+C:\Users\hentai_lover_\source\repos\LAB_2_3\LAB_2_3\bin\Debug\netcoreapp2.1\LAB_2_3.deps.json
+C:\Users\hentai_lover_\source\repos\LAB_2_3\LAB_2_3\bin\Debug\netcoreapp2.1\LAB_2_3.runtimeconfig.json
+C:\Users\hentai_lover_\source\repos\LAB_2_3\LAB_2_3\bin\Debug\netcoreapp2.1\LAB_2_3.runtimeconfig.dev.json
+C:\Users\hentai_lover_\source\repos\LAB_2_3\LAB_2_3\bin\Debug\netcoreapp2.1\LAB_2_3.dll
+C:\Users\hentai_lover_\source\repos\LAB_2_3\LAB_2_3\bin\Debug\netcoreapp2.1\LAB_2_3.pdb
+C:\Users\hentai_lover_\source\repos\LAB_2_3\LAB_2_3\obj\Debug\netcoreapp2.1\LAB_2_3.dll
+C:\Users\hentai_lover_\source\repos\LAB_2_3\LAB_2_3\obj\Debug\netcoreapp2.1\LAB_2_3.pdb
+C:\Users\hentai_lover_\source\repos\LAB_2_3\LAB_2_3\obj\Debug\netcoreapp2.1\LAB_2_3.genruntimeconfig.cache
