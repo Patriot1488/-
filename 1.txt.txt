@@ -1,2 +1,0 @@
-Console.WriteLine("Hello, world!")
-(int)Math.Sqrt(b * b + c * c)
